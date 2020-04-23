@@ -30,4 +30,7 @@ public class Test : MonoBehaviour
 
     void ciao()
     { }
+
+    void PorcoDio()
+    { }
 }
