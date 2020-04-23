@@ -33,4 +33,8 @@ public class Test : MonoBehaviour
 
     void PorcoDio()
     { }
+
+    void MaDai()
+    {
+    }
 }
