@@ -39,5 +39,7 @@ public class Test : MonoBehaviour
     {
     }
 
-
+    public void DevMain()
+    {
+    }
 }
