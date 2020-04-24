@@ -38,6 +38,4 @@ public class Test : MonoBehaviour
     void MaDai()
     {
     }
-
-    dsdaadsdas
 }
