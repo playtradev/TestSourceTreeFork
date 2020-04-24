@@ -20,7 +20,7 @@ public class Test : MonoBehaviour
         howmuchegg += 1002.69f;
     }
 
-    float a;
+    
 
     float egg = 0;
     public void TestTest()
